@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kysth0707&count_private=true&show_icons=true&hide=contribs&include_all_commits=true)](https://github.com/kysth0707/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kysth0707)](https://github.com/kysth0707/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kysth0707)](https://github.com/kysth0707/github-readme-stats)
 
