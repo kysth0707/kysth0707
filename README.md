@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kysth0707)](https://github.com/kysth0707/github-readme-stats)
 
+[![solvedac](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kysth0707)](https://solved.ac/profile/kysth0707/)
+
 DB
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -18,6 +20,9 @@ Language
 
 OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
+
 
 <!--
 **kysth0707/kysth0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
